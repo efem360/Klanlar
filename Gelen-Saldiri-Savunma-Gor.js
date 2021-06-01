@@ -1,6 +1,6 @@
 // ==UserScript==
 // @isim                Saldiri Savunma Gor
-// @version             TRakinci_v1.1
+// @version         TRakinci_v1.1
 // @description         Koylerin Profil sayfasinda gelen saldiri ve savunma birliklerini toplu halde gorme
 // @sahibi              design efem360
 // @icon                https://yunti.files.wordpress.com/2019/01/turk_bayragi_02_tam35blog.gif
