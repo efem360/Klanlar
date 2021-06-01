@@ -1,12 +1,11 @@
 // ==UserScript==
-// @name                Saldiri Savunma Gor
-// @version     	    TRakinci_v1.1
+// @isim                Saldiri Savunma Gor
+// @version             TRakinci_v1.1
 // @description         Koylerin Profil sayfasinda gelen saldiri ve savunma birliklerini toplu halde gorme
-// @author              design efem360
+// @sahibi              design efem360
 // @icon                https://yunti.files.wordpress.com/2019/01/turk_bayragi_02_tam35blog.gif
 // @include             https://tr65.klanlar.org/game.php?village=178&screen=info_village*
-// @downloadURL         https://raw.githubusercontent.com/joaovperin/TribalWars/master/UserScripts/IncomingTroops.user.js
-// @updateURL           https://raw.githubusercontent.com/joaovperin/TribalWars/master/UserScripts/IncomingTroops.user.js
+// @updateURL           https://raw.githubusercontent.com/efem360/Klanlar/master/Gelen-Saldiri-Savunma-Gor.js
 // ==/UserScript==
 
 /**
