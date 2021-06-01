@@ -10,9 +10,12 @@
 // ==/UserScript==
 
 /**
- * THIS SCRIPT WAS FORKED FROM FunnyPocketBook. All credits to him!
+ * 
+ * Unutma! Bilgi paylastikca buyur..
  *
- * @param {String} unitConfig Units configuration
+ * Aslinda bu isler bedavaya olmuyor ama yinede destek olmak istersen efem360@gmail.com 'a mesaj atabilirsin :)
+ *
+ * @param {String} unitConfig Birimleri Yapilandirma
  */
 ((unitConfig) => {
     'use strict';
