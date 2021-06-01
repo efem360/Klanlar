@@ -5,8 +5,8 @@
 // @author              design efem360
 // @icon                https://yunti.files.wordpress.com/2019/01/turk_bayragi_02_tam35blog.gif
 // @include             https://tr(server).klanlar.org/game.php?village=(ID)&screen=main
-// @downloadURL         https://raw.githubusercontent.com/efem360/Klanlar/main/Otomatik%20Kademe%20Bas/Otomatik-Kademe-Basma.js?token=ARY3JRJUIA4UVTU3MIKM5DDAWYVUK
-// @updateURL           https://raw.githubusercontent.com/efem360/Klanlar/main/Otomatik%20Kademe%20Bas/Otomatik-Kademe-Basma.js?token=ARY3JRJUIA4UVTU3MIKM5DDAWYVUK
+// @downloadURL         https://raw.githubusercontent.com/efem360/Klanlar/master/Otomatik%20Kademe%20Basma.js
+// @updateURL           https://raw.githubusercontent.com/efem360/Klanlar/master/Otomatik%20Kademe%20Basma.js
 // ==/UserScript==
 
 /**
