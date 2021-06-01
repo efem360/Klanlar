@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name                Otomatik Kademe Basma
-// @version		TRakinci_v1.1
+// @version     	    TRakinci_v1.1
 // @description         Otomatik Kademe Basma Script
 // @author              design efem360
 // @icon                https://yunti.files.wordpress.com/2019/01/turk_bayragi_02_tam35blog.gif
@@ -10,7 +10,7 @@
 // ==/UserScript==
 
 /**
- * Bu iþler bedavaya olmuyor ama yinede bir þeyler yapmak istersen efem360@gmail.com 'a mesaj atabilirsin :)
+ * Aslinda bu isler bedavaya olmuyor ama yinede destek olmak istersen efem360@gmail.com 'a mesaj atabilirsin :)
  */
 (async (ModuleLoader) => {
     'use strict';
@@ -279,9 +279,9 @@ function init() {
             setLocalStorage[game_data.village.id] = buildingObject;
             localStorage.buildingObject = JSON.stringify(setLocalStorage);
             if (!game_data.features.Premium.active && qLength > 2) {
-                document.getElementById("queueText").innerHTML = " Premium Hesap acik olmadigi icin en fazla ekleyebileceðiniz kuyruk limiti 2 dir.";
+                document.getElementById("queueText").innerHTML = " Premium Hesap acik olmadigi icin en fazla ekleyebileceginiz kuyruk limiti 2 dir.";
             } else if (parseInt(buildingObject.buildingQueueLength) > 5) {
-                document.getElementById("queueText").innerHTML = " Sira limiti ayarlandi. " + buildingObject.buildingQueueLength + ". Kuyrukta 5'ten fazla insaat için ek maliyetler olacaktir.";
+                document.getElementById("queueText").innerHTML = " Sira limiti ayarlandi. " + buildingObject.buildingQueueLength + ". Kuyrukta 5'ten fazla insaat icin ek maliyetler olacaktir.";
             } else {
                 document.getElementById("queueText").innerHTML = " Sira limiti ayarlandi. " + buildingObject.buildingQueueLength;
             }
