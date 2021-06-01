@@ -10,7 +10,7 @@
 
 /**
  * 
- * Unutma! Bilgi paylastikca buyur..
+ * Unutma! Bilgi paylastikca buyur...
  *
  * Aslinda bu isler bedavaya olmuyor ama yinede destek olmak istersen efem360@gmail.com 'a mesaj atabilirsin :)
  *
